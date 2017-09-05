@@ -8,7 +8,7 @@
 - Make the app look as close to your UI diagram as possible
 - Add some documentation to the github repo so that Kevin and I know how to start your app
 - Email me & kevin a link to your github repository
-
+ 
 
 One Paragraph of project description goes here
 
