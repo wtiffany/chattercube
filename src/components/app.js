@@ -1,3 +1,5 @@
+// container for entire application
+
 angular.module('chatter')
 
 .component('app', {
